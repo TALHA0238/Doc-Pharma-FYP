@@ -123,6 +123,16 @@ class _MyAppState extends ConsumerState<MyApp> {
   }
 }
 
+
+
+
+
+
+
+
+
+
+
 class LocalNotificationService {
   static late FlutterLocalNotificationsPlugin _flutterLocalNotificationsPlugin;
 
@@ -140,7 +150,7 @@ class LocalNotificationService {
     // Handle displaying local notifications
   }
 }
-
+// code
 class MessagingFirebase {
   void uploadFcmToken() {
     // Logic to upload FCM token
