@@ -1,16 +1,35 @@
-# doctor_app
+DOc-Pharma
 
-A new Flutter project.
+Project Description
 
-## Getting Started
+DOc-Pharma is a comprehensive software project designed to cater to individuals with Diabetes Type 1. It comprises several modules aimed at providing various functionalities to facilitate the management and support of individuals dealing with this condition. The core module focuses on Diabetes Type 1 management, while additional modules include consultation pharmacy, reminder system, community chat, and more.
 
-This project is a starting point for a Flutter application.
+Group Members
+Mohammad Talha
+Waleed Malik
+Nouman Manzoor
 
-A few resources to get you started if this is your first Flutter project:
+Technologies Used
+Flutter: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+Dart: The programming language used for building Flutter apps.
+Python: Utilized for backend functionalities and data processing.
+Firebase: A platform developed by Google for creating mobile and web applications.
+VS Code: A lightweight but powerful source code editor developed by Microsoft for Windows, macOS, and Linux.
+Android Studio: The official integrated development environment (IDE) for Google's Android operating system.
+Figma: A collaborative interface design tool.
+Canva: An online graphic design tool.
+Google Colab: A free Jupyter notebook environment that runs in the cloud.
+Spyder: An open-source integrated development environment for Python.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Features
+Diabetes Type 1 Management: Core module focused on managing Diabetes Type 1, including tracking blood sugar levels, medication management, and diet monitoring.
+Consultation Pharmacy: Facilitates consultations with pharmacists for medication-related queries and advice.
+Reminder System: Provides reminders for medication intake, doctor appointments, and other relevant tasks.
+Community Chat: Enables users to engage in community discussions, share experiences, and seek support from peers dealing with similar challenges.
+Additional Features: The project includes other features aimed at enhancing the overall management and support for individuals with Diabetes Type 1.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Usage
+Upon launching the application, users can navigate through different modules such as Diabetes Type 1 Management, Consultation Pharmacy, Reminder System, and Community Chat.
+Users can input relevant data, receive reminders, participate in community discussions, and avail consultation services as per their requirements.
+
+Thank you
